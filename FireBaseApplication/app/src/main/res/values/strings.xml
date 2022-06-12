@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FireBaseApplication</string>
+    <string name="mail">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="login_google">Iniciar sesión con google</string>
+    <string name="register">Registrar</string>
+    <string name="user">Nombre de Usuario</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="upload_image">Sube una imagen</string>
+    <string name="logOut">Cerrar sesión</string>
+    <string name="changeProfile">Modificar Perfil</string>
+    <string name="profile">Perfil</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="saveChanges">Guardar los cambios</string>
+    <string name="tip">Cuando modificas un valor del usuario se reinicia la aplicación</string>
+    <string name="user_updated">¡Usuario Actualizado!</string>
+    <string name="user_not_updated">Nada ha cambiado 😖</string>
+    <string name="new_post">Escribe el título</string>
+    <string name="upload">Publicar</string>
+    <string name="upload_post_success">¡Publicado con éxito!</string>
+    <string name="google_parameters">No puedes modificar los elementos</string>
+    <string name="comment_hint">Escribe aquí tu comentario</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
